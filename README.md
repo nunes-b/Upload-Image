@@ -61,7 +61,8 @@ Faça o clone deste repositório e acesse o diretório raiz.
 
 Instale as dependências necessárias executando o seguinte comando no terminal:
 
-```npm install
+```
+npm install
 
 ```
 
