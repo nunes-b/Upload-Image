@@ -63,12 +63,12 @@ Instale as dependências necessárias executando o seguinte comando no terminal:
 
 ```
 npm install
-
 ```
 
 Crie um arquivo .env na raiz do projeto e defina as seguintes variáveis de ambiente:
 
-```PORT=3000
+```
+PORT=3000
 DB_USER=seu_usuario_do_mongodb
 DB_PASSWORD=sua_senha_do_mongodb
 ```
